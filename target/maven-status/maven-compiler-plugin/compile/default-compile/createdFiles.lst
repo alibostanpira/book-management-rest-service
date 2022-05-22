@@ -1,0 +1,4 @@
+book\management\genre\GenreController.class
+book\management\genre\Genre.class
+book\management\genre\GenreService.class
+book\management\BookManagementApplication.class

@@ -37,5 +37,4 @@ public class GenreController {
     public void deleteGenre(@PathVariable String name) {
         genreService.deleteGenre(name);
     }
-
 }
